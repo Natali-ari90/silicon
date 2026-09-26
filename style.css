@@ -415,6 +415,7 @@ body:has(.theme-checkbox:checked) .store-buttons .store-dark {
     font-weight: 800;
     line-height: 1.3;
     margin: 0;
+}
 
 .payment-image img,
 .transfer-image img {
@@ -422,7 +423,7 @@ body:has(.theme-checkbox:checked) .store-buttons .store-dark {
     width: 100%;
     max-width: 450px;
 }
-}
+
 /* =========================
    TESTIMONIALS
 ========================= */
